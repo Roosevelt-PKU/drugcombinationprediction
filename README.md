@@ -1,7 +1,7 @@
 # drugcombinationprediction
 
 
->This is the source code for DrugComboExplorer.
+>This is the source codes of DrugComboExplorer.
 
 
 Please first unzip the folders "ly3_signal_info_update_seed.zip" and "oci_ly3_group_pathway_target_effect.zip"
