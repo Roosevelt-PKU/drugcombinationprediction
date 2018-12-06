@@ -10,5 +10,5 @@ Please first unzip the folders "ly3_signal_info_update_seed.zip" and "oci_ly3_gr
 
 2. Run "drug_combination_ranking_res_oci_ly3_pathway_target_effects_validate.py" to rank the drug combinations for DLBCL patients.
 
-# User Guide 
->DrugComboExplorer_user_guide_v1.docx
+# User Guide
+>Please check the guide file: DrugComboExplorer_user_guide_v1.docx
